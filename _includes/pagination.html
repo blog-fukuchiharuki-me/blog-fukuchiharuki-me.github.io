@@ -1,0 +1,40 @@
+{% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page == 1 %}
+      <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="pagination__item pagination__item--prev">&laquo;</a>
+    {% elsif paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pagination__item pagination__item--prev">&laquo;</a>
+    {% else %}
+      <span class="pagination__item pagination__item--prev">&laquo;</span>
+    {% endif %}
+
+    {% assign minPage = paginator.page | minus: 2 %}
+    {% if minPage < 1 %}
+      {% assign minPage = 1 %}
+    {% endif %}
+    {% assign maxPage = minPage | plus: 4 %}
+    {% if maxPage > paginator.total_pages %}
+      {% assign maxPage = paginator.total_pages %}
+    {% endif %}
+    {% assign minPage = maxPage | minus: 4 %}
+    {% if minPage < 1 %}
+      {% assign minPage = 1 %}
+    {% endif %}
+
+    {% for page in (minPage..maxPage) %}
+      {% if page == paginator.page %}
+        <span class="pagination__item pagination__item--current">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="pagination__item pagination__item--neighbors">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="pagination__item pagination__item--neighbors">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pagination__item pagination__item--next">&raquo;</a>
+    {% else %}
+      <span class="pagination__item pagination__item--next">&raquo;</span>
+    {% endif %}
+  </div>
+{% endif %}
