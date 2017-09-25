@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+30代、フリーランスのソフトウェアエンジニア。
 
-### More Information
+ドメイン駆動設計やCQRS、オブジェクト指向に基づいたソフトウェアデザインに興味があります。プライベートではカメラを持って出かけたりします。
 
-A place to include any other types of information that you'd like to include about yourself.
+### About this blog
+
+宗教や哲学、脳科学などに興味があり、思考を思考することがやめられません。しかしそのほとんどは考えなくてもよいようなこと、取り越し苦労なのでしょう。そういう自虐をこめて「杞憂」と名づけました。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fukuchi.haruki@gmail.com](mailto:fukuchi.haruki@gmail.com)
