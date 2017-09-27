@@ -69,6 +69,10 @@ p {
   line-height: 1.6;
 }
 
+p + p {
+  margin-top: 30px;
+}
+
 a {
   color: $blue;
   text-decoration: none;
@@ -101,6 +105,12 @@ ul ul, ol ul {
 
 em, i {
   font-style: italic;
+}
+
+em {
+  padding: 0 2px;
+  color: red;
+  background: linear-gradient(transparent 60%, #ffff66 60%);
 }
 
 strong, b {
