@@ -107,12 +107,6 @@ em, i {
   font-style: italic;
 }
 
-em {
-  padding: 0 2px;
-  font-weight: bold;
-  background: linear-gradient(transparent 60%, #ffff66 60%);
-}
-
 strong, b {
   font-weight: bold;
 }
@@ -265,6 +259,20 @@ nav {
 }
 
 .post {
+  ul, ol {
+    margin: 25px 0;
+    font-size: 22px;
+    li {
+      margin: 10px 0;
+    }
+  }
+
+  em {
+    padding: 0 2px;
+    font-weight: bold;
+    background: linear-gradient(transparent 60%, #ffff66 60%);
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
