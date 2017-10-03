@@ -254,7 +254,7 @@ nav {
   border-bottom: none;
 }
 
-.post {
+.post, .page {
   p + p {
     margin-top: 30px;
   }
@@ -272,7 +272,9 @@ nav {
     font-weight: bold;
     background: linear-gradient(transparent 60%, #ffff66 60%);
   }
+}
 
+.post {
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
