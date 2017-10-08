@@ -14,5 +14,5 @@ permalink: /about/
 
 ### Contact me
 
-- [@fukuchiharuki](https://twitter.com/fukuchiharuki)
-- [fukuchi.haruki@gmail.com](mailto:fukuchi.haruki@gmail.com)
+[@fukuchiharuki](https://twitter.com/fukuchiharuki)  
+[fukuchi.haruki@gmail.com](mailto:fukuchi.haruki@gmail.com)
