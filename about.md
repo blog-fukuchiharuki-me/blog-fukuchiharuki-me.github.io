@@ -13,8 +13,7 @@ permalink: /about/
 
 思ったこと・感じたこと・考えたことなどをそこはかとなく書き綴るためのブログです。しばらくは特別な偏りを考えないようにして書いていくつもりでいます。
 
-ご連絡ください
+ホームページ
 ----
 
-[@fukuchiharuki](https://twitter.com/fukuchiharuki)  
-[fukuchi.haruki@gmail.com](mailto:fukuchi.haruki@gmail.com)
+[http://fukuchiharuki.me/](http://fukuchiharuki.me/)
