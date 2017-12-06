@@ -15,10 +15,6 @@
 
 html {
   font-size: 100%;
-
-  @include mobile {
-    font-size: 90%;
-  }
 }
 
 body {
@@ -290,6 +286,10 @@ nav {
 }
 
 .post {
+  @include mobile {
+    font-size: 90%;
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
