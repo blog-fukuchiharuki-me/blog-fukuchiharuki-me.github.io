@@ -284,6 +284,20 @@ nav {
     background: linear-gradient(transparent 60%, #ffff66 60%);
   }
 
+  hr {
+    position: relative;
+    height: 1.5em;
+    text-align: center;
+    border: 0;
+  }
+  hr:after {
+    content: '・・・';
+    display: inline-block;
+    position: relative;
+    line-height: 1.5em;
+    color: $lightGray;
+  }
+  
   @include mobile {
     font-size: 85%;
   }
