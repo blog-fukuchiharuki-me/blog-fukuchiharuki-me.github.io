@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 私について
+title: ふくちはるきについて
 permalink: /about/
 ---
 
