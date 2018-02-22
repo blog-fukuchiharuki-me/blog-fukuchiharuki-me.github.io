@@ -259,6 +259,20 @@ nav {
 }
 
 .post, .page {
+  h2 {
+    padding-bottom: 5px;
+    border-bottom: solid 3px $lightBlue;
+    position: relative;
+  }
+  h2:after {
+    position: absolute;
+    content: " ";
+    display: block;
+    border-bottom: solid 3px $blue;
+    bottom: -3px;
+    width: 20%;
+  }
+  
   p + p {
     margin-top: 30px;
   }
