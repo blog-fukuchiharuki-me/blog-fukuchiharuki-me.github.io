@@ -261,15 +261,15 @@ nav {
 .post, .page {
   h2 {
     padding-bottom: 5px;
-    border-bottom: solid 3px $lightBlue;
+    border-bottom: solid 1px $lightBlue;
     position: relative;
   }
   h2:after {
     position: absolute;
     content: " ";
     display: block;
-    border-bottom: solid 3px $blue;
-    bottom: -3px;
+    border-bottom: solid 1px $blue;
+    bottom: -1px;
     width: 20%;
   }
   
