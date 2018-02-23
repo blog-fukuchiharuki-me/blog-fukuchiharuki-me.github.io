@@ -41,7 +41,7 @@ Webアプリケーションを中心にソフトウェアの開発を仕事に�
 
 写真を撮っている間の、世界がそれだけになるような感覚が好きです。一眼は *ファインダーを覗いている時が一番楽しい* と思います📷
 
-[Instagramに写真をいくつか載せています](https://www.instagram.com/fukuchiharuki/)。
+[Instagramに撮った写真をいくつか載せています](https://www.instagram.com/fukuchiharuki/)。
 
 このブログについて
 ----
