@@ -59,13 +59,13 @@ Webアプリケーションを中心にソフトウェアの開発を仕事に�
 ホームページやSNSもあります
 ----
 
-ホームページなどです。
+ホームページもあります。
 
 - [ホームページ](http://fukuchiharuki.me/)
 - [レジュメ](http://resume.fukuchiharuki.me/)　・・・もうちょっと硬いプロフィール
 - [Wiki](http://fukuchiharuki.me/wiki/)　・・・プログラミングのTipsなど
 
-SNS。友達申請はいつでもウェルカムです。
+SNS。友達申請大歓迎です。
 
 - [Twitter](https://twitter.com/fukuchiharuki)
 - [Instagram](https://www.instagram.com/fukuchiharuki/)
