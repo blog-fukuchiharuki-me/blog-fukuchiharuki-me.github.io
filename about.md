@@ -55,3 +55,18 @@ Webアプリケーションを中心にソフトウェアの開発を仕事に�
 なかなか機会がありませんが、いつかポートレートもやってみたいです。
 
 [Instagramに撮った写真をいくつか載せています](https://www.instagram.com/fukuchiharuki/)。
+
+ホームページやSNSもあります
+----
+
+ホームページなどです。
+
+- [ホームページ](http://fukuchiharuki.me/)
+- [レジュメ](http://resume.fukuchiharuki.me/)　・・・もうちょっと硬いプロフィール
+- [Wiki](http://fukuchiharuki.me/wiki/)　・・・プログラミングのTipsなど
+
+SNS。友達申請はいつでもウェルカムです。
+
+- [Twitter](https://twitter.com/fukuchiharuki)
+- [Instagram](https://www.instagram.com/fukuchiharuki/)
+- [Facebook](https://www.facebook.com/fukuchiharuki)
