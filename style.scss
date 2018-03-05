@@ -27,6 +27,10 @@ body {
   color: $textBlack;
 }
 
+img {
+  max-width: 100%;
+}
+
 .container {
   margin: 0 auto;
   max-width: 640px;
@@ -35,12 +39,12 @@ body {
 }
 
 //
-// FONTS
+// FONTS, COLORS, DECORATIONS
 //
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $mincho;
   color: $darkerGray;
+  font-family: $mincho;
   font-weight: bold;
 }
 
@@ -60,8 +64,8 @@ h3 {
 }
 
 h4 {
-  font-size: 1.2rem;
   color: $gray;
+  font-size: 1.2rem;
 }
 
 a {
@@ -70,6 +74,7 @@ a {
   cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -93,22 +98,26 @@ strong, b {
   font-weight: bold;
 }
 
-img {
-  max-width: 100%;
+blockquote {
+  color: $gray;
+  font-style: italic;
 }
+
+.date {
+  color: $gray;
+  font-size: 0.8rem;
+  font-style: italic;
+  font-weight: lighter;
+  letter-spacing: 0.05rem;
+}
+
+//
+// HACKING
+//
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
-}
-
-.date {
-  margin: -1rem 0 2rem 0.2rem;
-  font-size: 0.8rem;
-  font-weight: lighter;
-  font-style: italic;
-  letter-spacing: 0.05rem;
-  color: $gray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -123,9 +132,9 @@ img {
   clear: both;
 }
 
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
+//
+// LAYOUT / SECTIONS
+//
 
 //
 // .masthead
@@ -320,8 +329,10 @@ nav {
     margin: 1.6em 0.4em;
     border-left: 2px solid $gray;
     padding: 0 1rem;
-    color: $gray;
-    font-style: italic;
+  }
+
+  .date {
+    margin: -1rem 0 2rem 0.2rem;
   }
 
   .comments {
