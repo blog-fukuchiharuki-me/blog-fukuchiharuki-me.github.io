@@ -257,10 +257,11 @@ nav {
   }
   
   h2 {
-    padding-bottom: 5px;
+    padding-bottom: 0.3rem;
     border-bottom: solid 1px $lightBlue;
     position: relative;
   }
+  
   h2:after {
     position: absolute;
     content: " ";
@@ -310,6 +311,7 @@ nav {
     text-align: center;
     border: 0;
   }
+  
   hr:after {
     content: '・・・';
     display: inline-block;
@@ -321,9 +323,9 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1.6em 0.4em;
     border-left: 2px solid $gray;
-    padding: 0.1em 1em;
+    padding: 0 1rem;
     color: $gray;
     font-style: italic;
   }
