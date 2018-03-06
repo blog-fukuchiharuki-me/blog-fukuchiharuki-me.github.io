@@ -141,7 +141,7 @@ blockquote {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 3rem;
 }
 
 .wrapper-masthead .container {
@@ -150,7 +150,7 @@ blockquote {
 }
 
 .masthead {
-  padding: 20px;
+  padding: 1.2rem;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
