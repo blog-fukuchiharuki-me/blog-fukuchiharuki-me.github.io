@@ -160,9 +160,9 @@ blockquote {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  width: 4rem;
+  height: 4rem;
+  margin-right: 1rem;
 
   @include mobile {
     float: none;
@@ -171,7 +171,7 @@ blockquote {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 50%;
   }
 }
 
