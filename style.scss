@@ -191,17 +191,17 @@ blockquote {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-size: 1.6rem;
+  letter-spacing: 0.1rem;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: -0.2rem 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 1rem;
 
   @include mobile {
-    margin: 3px 0;
+    margin: 0.2rem 0;
   }
 }
 
