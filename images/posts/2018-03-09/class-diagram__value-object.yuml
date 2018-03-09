@@ -1,0 +1,4 @@
+[Customer]<>-[PhoneNumber]
+[Customer]<>-[Name]
+[PhoneNumber]++-[String]
+[Name]++-[String]
