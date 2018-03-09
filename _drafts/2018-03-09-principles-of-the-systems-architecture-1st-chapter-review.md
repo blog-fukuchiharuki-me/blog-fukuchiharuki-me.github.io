@@ -51,9 +51,7 @@ tags:
 
 バリューオブジェクトやファーストクラスコレクションのようなクラス分割を知れば、オブジェクト指向の実践は小さなことからはじめられそうだと気がつきます。
 
-![ファーストクラスコレクション](../images/posts/2018-03-09/class-diagram__first-class-collection.png)
-
-![バリューオブジェクト](../images/posts/2018-03-09/class-diagram__value-object.png)
+![バリューオブジェクトとファーストクラスコレクション](../images/posts/2018-03-09/class-diagram__first-class-collection-and-value-object.png)
 
 業務の事柄をメソッドやクラスとして切り出して、その体を表す名前をつけていくのがオブジェクト指向らしい分割の仕方であると改めて考え直しました。
 
