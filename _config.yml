@@ -12,6 +12,15 @@ description: 30代&times;フリーランス&times;ソフトウェアエンジニ
 avatar: https://avatars0.githubusercontent.com/u/1741026?v=4&s=460
 
 #
+# Writer
+#
+writer:
+  name: ふくちはるき
+  title: フリーランスのソフトウェアエンジニア
+  description: オブジェクト指向やドメイン駆動設計に興味があります。趣味で写真もやります。
+  avatar: https://avatars0.githubusercontent.com/u/1741026?v=4&s=460
+
+#
 # Flags below are optional
 #
 
