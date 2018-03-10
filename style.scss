@@ -160,16 +160,17 @@ blockquote {
 }
 
 .site-avatar {
-  display: none;
   float: left;
   width: 4rem;
   height: 4rem;
   margin-right: 1rem;
+  display: none;
 
   @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
+    display: none;
   }
 
   img {
