@@ -1,0 +1,18 @@
+{% if site.writer.name %}
+<div class="writer clearfix">
+    <div class="writer__avatar">
+        <img src="{{ site.writer.avatar }}">
+    </div>
+    <div class="writer__profile">
+        <div class="writer__profile__name">
+            {{ site.writer.name }}
+        </div>
+        <div class="writer__profile__title">
+            {{ site.writer.title }}
+        </div>
+        <div class="writer__profile__description">
+            {{ site.writer.description }}
+        </div>
+    </div>
+</div>
+{% endif %}
