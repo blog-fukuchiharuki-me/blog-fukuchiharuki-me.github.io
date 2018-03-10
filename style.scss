@@ -367,6 +367,37 @@ nav {
   }
 }
 
+/// .writer
+
+.writer {
+  margin-top: 3.2rem;
+}
+
+.writer__avatar {
+  float: left;
+  margin-right: 1rem;
+}
+
+.writer__avatar img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+}
+
+.writer__profile__name {
+  float: left;
+  margin-right: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.writer__profile__title {
+  padding: 0.4rem 0 0.5rem;
+  font-size: 0.8rem;
+}
+
+.writer__profile__description {
+}
+
 /// footer
 
 .wrapper-footer {
