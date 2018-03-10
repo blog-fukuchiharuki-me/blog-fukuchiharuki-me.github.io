@@ -371,11 +371,20 @@ nav {
 
 .writer {
   margin-top: 3.2rem;
+
+  @include mobile {
+    text-align: center;
+  }
 }
 
 .writer__avatar {
   float: left;
   margin-right: 1rem;
+
+  @include mobile {
+    float: none;
+    margin: 0;
+  }
 }
 
 .writer__avatar img {
@@ -388,11 +397,20 @@ nav {
   float: left;
   margin-right: 0.5rem;
   font-size: 1.2rem;
+
+  @include mobile {
+    float: none;
+    margin: 0.5rem 0 0;
+  }
 }
 
 .writer__profile__title {
   padding: 0.4rem 0 0.5rem;
   font-size: 0.8rem;
+
+  @include mobile {
+    padding-top: 0;
+  }
 }
 
 .writer__profile__description {
