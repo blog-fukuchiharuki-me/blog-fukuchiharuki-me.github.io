@@ -54,8 +54,3 @@ tags:
 ![バリューオブジェクトとファーストクラスコレクション](../images/posts/2018-03-09/class-diagram__first-class-collection-and-value-object.png)
 
 業務の事柄をメソッドやクラスとして切り出して、その体を表す名前をつけていくのがオブジェクト指向らしい分割の仕方であると改めて考え直しました。
-
-参考
-----
-
-著者の[増田さん](https://twitter.com/masuda220)が公開されている[たくさんのスライド](https://www.slideshare.net/masuda220/presentations)は、オブジェクト指向やドメイン駆動設計を理解するのにとても勉強になります。~~これだけで本買わなくてもいいのでは。。~~
