@@ -92,9 +92,12 @@ ul ul, ol ul {
 
 em, i {
   font-style: italic;
+  font-style: normal;
+  background: linear-gradient(transparent 60%, #ffff66 60%);
 }
 
 strong, b {
+  font-style: normal;
   font-weight: bold;
 }
 
@@ -133,12 +136,10 @@ blockquote {
 }
 
 //
-// LAYOUT / SECTIONS
+// LAYOUT
 //
 
-//
-// .masthead
-//
+/// .masthead
 
 .wrapper-masthead {
   margin-bottom: 3rem;
@@ -229,9 +230,7 @@ nav {
   }
 }
 
-//
-// .main
-//
+/// .post, .page
 
 .posts > .post {
   padding-bottom: 2em;
@@ -286,9 +285,9 @@ nav {
 
   ul, ol {
     margin: 1.6rem 0;
-    padding-left: 30px;
+    padding-left: 1.2rem;
     li {
-      margin: 10px 0;
+      margin: 0.4rem 0;
     }
   }
 
@@ -296,20 +295,9 @@ nav {
     margin: 0;
   }
 
-  strong {
-    font-style: normal;
-    font-weight: bold;
-  }
-
-  em {
-    padding: 0 2px;
-    font-style: normal;
-    background: linear-gradient(transparent 60%, #ffff66 60%);
-  }
-
   hr {
     position: relative;
-    height: 3.5em;
+    height: 3.6rem;
     text-align: center;
     border: 0;
   }
@@ -318,12 +306,10 @@ nav {
     content: '・・・';
     display: inline-block;
     position: relative;
-    line-height: 3.5em;
+    line-height: 3.6rem;
     color: $gray;
   }
-}
 
-.post {
   blockquote {
     margin: 1.6em 0.4em;
     border-left: 2px solid $gray;
@@ -358,6 +344,8 @@ nav {
   }
 }
 
+/// .pagination
+
 .pagination {
   text-align: center;
   .pagination__item {
@@ -378,6 +366,8 @@ nav {
     color: $white;
   }
 }
+
+/// footer
 
 .wrapper-footer {
   margin-top: 50px;
