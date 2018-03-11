@@ -73,9 +73,9 @@ paginate_path: /page/:num
 # Settings for posts list
 #
 posts-list:
-  title: true
-  date: true
-  beginning: false
+  title: yes
+  date: yes
+  beginning: no
   read-more:
     text: 続きを読む
 
