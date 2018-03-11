@@ -9,6 +9,10 @@ layout: default
       {% if site.posts-list.title %}
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       {% endif %}
+      
+      {% if site.posts-list.date %}
+      <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
+      {% endif %}
 
       {% if site.posts-list.beginning %}
       <div class="beginning">
