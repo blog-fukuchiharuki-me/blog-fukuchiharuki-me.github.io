@@ -240,8 +240,12 @@ nav {
 /// .post, .page
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  h1 {
+    margin: 0.2rem 0;
+    font-size: 1rem;
+    font-weight: normal;
+    color: inherit;
+  }
 }
 
 .posts > .post:last-child {
