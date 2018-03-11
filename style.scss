@@ -44,11 +44,12 @@ img {
 
 h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
+  font-family: $mincho;
   font-weight: bold;
 }
 
-:not(.posts) h1, h2, h3, h4, h5, h6 {
-  font-family: $mincho;
+.posts h1 {
+  font-family: inherit;
 }
 
 h1 {
