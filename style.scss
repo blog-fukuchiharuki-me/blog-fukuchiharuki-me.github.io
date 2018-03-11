@@ -44,8 +44,11 @@ img {
 
 h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
-  font-family: $mincho;
   font-weight: bold;
+}
+
+:not(.posts) h1, h2, h3, h4, h5, h6 {
+  font-family: $mincho;
 }
 
 h1 {
@@ -93,7 +96,7 @@ ul ul, ol ul {
 em, i {
   font-style: italic;
   font-style: normal;
-  color: $black;
+  color: $darkerGray;
   background: linear-gradient(transparent 60%, #ffff66 60%);
 }
 
