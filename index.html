@@ -6,13 +6,19 @@ layout: default
   {% for post in paginator.posts %}
     <article class="post">
 
+      {% if site.posts-list.title %}
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      {% endif %}
 
-      <div class="entry">
+      {% if site.posts-list.beginning %}
+      <div class="beginning">
         {{ post.content | strip_html | truncate:140 }}
+        {% if site.posts-list.read-more.text %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ site.posts-list.read-more.text }}</a>
+        {% endif %}
       </div>
+      {% endif %}
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">続きを読む</a>
     </article>
   {% endfor %}
 </div>
