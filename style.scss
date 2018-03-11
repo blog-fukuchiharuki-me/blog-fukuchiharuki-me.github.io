@@ -147,7 +147,7 @@ blockquote {
 /// .masthead
 
 .wrapper-masthead {
-  margin-bottom: 3rem;
+  margin-bottom: 3.2rem;
 }
 
 .wrapper-masthead .container {
@@ -246,11 +246,6 @@ nav {
     font-weight: normal;
     color: inherit;
   }
-}
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
 }
 
 .post, .page {
