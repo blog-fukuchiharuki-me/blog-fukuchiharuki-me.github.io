@@ -245,9 +245,14 @@ nav {
     font-size: 1rem;
     font-weight: normal;
     color: inherit;
+    float: left;
     :before {
       content: '📓 ';
     }
+  }
+  .date {
+    padding-top: 0.7rem;
+    float: right;
   }
 }
 
