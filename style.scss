@@ -387,6 +387,19 @@ nav {
   }
 }
 
+/// .social-links
+
+.social-links {
+  position: -webkit-sticky;
+  position:    -moz-sticky;
+  position:     -ms-sticky;
+  position:      -o-sticky;
+  position:         sticky;
+  top: 4.85rem;
+  float: left;
+  margin-left: calc(-3rem - 40px);
+}
+
 /// .writer
 
 .writer {
