@@ -96,9 +96,14 @@ ul ul, ol ul {
 
 em, i {
   font-style: italic;
-  font-style: normal;
-  color: $darkerGray;
-  background: linear-gradient(transparent 60%, #ffff66 60%);
+}
+
+.page, .post {
+  em, i {
+    font-style: normal;
+    color: $darkerGray;
+    background: linear-gradient(transparent 60%, #ffff66 60%);
+  }
 }
 
 strong, b {
