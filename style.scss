@@ -254,7 +254,7 @@ nav {
     font-weight: normal;
     color: inherit;
     float: left;
-    :before {
+    &:before {
       content: '📓 ';
     }
   }
