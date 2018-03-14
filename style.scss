@@ -395,17 +395,25 @@ nav {
   }
 }
 
-/// .social-links
+/// .share-links
 
-.social-links {
-  position: -webkit-sticky;
-  position:    -moz-sticky;
-  position:     -ms-sticky;
-  position:      -o-sticky;
-  position:         sticky;
-  top: 3.2rem;
-  float: left;
-  margin-left: calc(-3rem - 40px);
+.share-links {
+  text-align: center;
+  
+  a {
+    margin: 0 0.2rem;
+    padding: 0.4rem 0.8rem;
+    display: inline-block;
+    
+    > * {
+      color: white;
+      background: none;
+    }
+  }
+}
+
+.share-links__twitter {
+  background-color: #55acee;
 }
 
 /// .writer
