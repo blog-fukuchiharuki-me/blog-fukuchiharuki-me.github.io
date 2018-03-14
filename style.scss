@@ -405,12 +405,13 @@ nav {
     padding: 0.4rem 0.8rem;
     display: inline-block;
 
+    &:hover {
+      text-decoration: none;
+    }
+
     > * {
       color: white;
       background: none;
-      &:hover {
-        text-decoration: none;
-      }
     }
     
     > span {
