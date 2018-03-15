@@ -432,6 +432,7 @@ nav {
 .share-links__twitter  { background-color: #55acee; }
 
 .post__title + .share-links {
+  text-align: right;
   > a {
     width: 6rem;
     > span {
