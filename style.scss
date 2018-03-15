@@ -431,7 +431,7 @@ nav {
 .share-links__pocket   { background-color: #ee4056; }
 .share-links__twitter  { background-color: #55acee; }
 
-.share-links--position_top {
+.post__title + .share-links {
   > a {
     width: 6rem;
     > span {
