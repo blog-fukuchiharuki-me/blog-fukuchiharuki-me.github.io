@@ -431,6 +431,18 @@ nav {
 .share-links__pocket   { background-color: #ee4056; }
 .share-links__twitter  { background-color: #55acee; }
 
+.share-links--position_top {
+  > a {
+    width: 6rem;
+    > span {
+      float: right;
+      padding-right: 0.8rem;
+    }
+  }
+  .share-links__facebook { display: none; }
+  .share-links__twitter  { display: none; }
+}
+
 /// .writer
 
 .writer {
