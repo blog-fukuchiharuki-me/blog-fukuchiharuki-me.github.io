@@ -54,7 +54,7 @@ Webアプリケーションを中心にソフトウェアの開発を仕事に�
 
 なかなか機会がありませんが、ポートレートもやってみたいです。
 
-[Instagramに撮った写真をいくつか載せています](https://www.instagram.com/fukuchiharuki/)。
+[Instagramに撮った写真を載せていっています](https://www.instagram.com/fukuchiharuki/)。
 
 ホームページやSNSもあります
 ----
