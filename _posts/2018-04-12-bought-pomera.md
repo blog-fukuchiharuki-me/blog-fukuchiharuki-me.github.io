@@ -1,6 +1,6 @@
 ---
 layout: post
-title: やっぱりpomera DM200を買ってしまった
+title: やっぱり「pomera DM200」を買ってしまった
 tags: 
 - review
 - pomera
