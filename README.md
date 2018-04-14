@@ -1,4 +1,4 @@
-Post Template
+Post template
 ====
 
 ```md
@@ -9,27 +9,40 @@ tags:
 ---
 ```
 
-Tags Catalog
+Tags catalog
 ====
 
-Styles
+Text styles
 ----
 
 ```md
 - review
 - experience
+
 - how-to
 - know-how
-- lifehack
-- sort-out
-- research
+
+- inspiration
+- impression
 ```
 
-Tech
+Targets
 ----
 
 ```md
-- programming
+- book
+```
+
+Themes
+----
+
+```md
 - software-design
-- system-development
+```
+
+Goods
+----
+
+```md
+- pomera
 ```

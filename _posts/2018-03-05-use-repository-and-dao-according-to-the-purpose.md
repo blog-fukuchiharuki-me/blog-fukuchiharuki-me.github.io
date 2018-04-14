@@ -1,6 +1,9 @@
 ---
 layout: post
 title: リポジトリとDAOの住み分け方
+tags:
+- learning
+- software-design
 ---
 
 リポジトリとDAOは似ているようで違います。どちらもデータストアとアプリケーションコードの間に位置します。しかしリポジトリとDAOには違いがあります。

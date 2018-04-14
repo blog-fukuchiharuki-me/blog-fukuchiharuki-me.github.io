@@ -3,7 +3,7 @@ layout: post
 title: 『現場で役立つシステム設計の原則』第1章 感想
 tags: 
 - review
-- programming
+- book
 - software-design
 ---
 
