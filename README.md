@@ -31,6 +31,7 @@ Targets
 
 ```md
 - book
+- camera
 ```
 
 Themes
