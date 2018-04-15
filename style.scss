@@ -288,6 +288,10 @@ nav {
       display: block;
       margin: 0 auto;
     }
+
+    > img+img {
+      margin: 0.8rem 0;
+    }
   }
 
   p + p {
