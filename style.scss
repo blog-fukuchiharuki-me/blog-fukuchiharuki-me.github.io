@@ -394,7 +394,7 @@ nav {
     display: inline-block;
     text-align: center;
     border-radius: 2px;
-    box-shadow: 1px 2px 4px $gray;
+    box-shadow: 0 0 0;
     transition: box-shadow 0.3s;
 
     &:hover {
