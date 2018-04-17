@@ -16,7 +16,12 @@ tags:
 > A Repository mediates between the domain and data mapping layers, acting like an in-memory domain object collection.   
 -- P of EAA: Repository
 
-リポジトリはドメインとデータマッピングレイヤーをとりなして、インメモリーなドメインオブジェクトのコレクションのように振る舞います。
+> Conceptually, a Repository encapsulates the set of objects persisted in a data store and the operations performed over them, ...  
+-- P of EAA: Repository
+
+リポジトリはドメインとデータマッピングレイヤをとりなして、インメモリな *ドメインオブジェクトのコレクションのように振る舞います*。
+
+ということは、ドメインオブジェクトの永続化に関わる操作を隠蔽しているとも言えます。
 
 > ...それ自体はドメインに由来しないが、ドメイン設計においては意味のある役割を持っている。これらの構成概念は、モデルオブジェクトを操作できるようにすることで、...  
 -- エリック・エヴァンスのドメイン駆動設計
@@ -24,11 +29,6 @@ tags:
 リポジトリの関心はドメインオブジェクトにあります。
 
 リポジトリの目的はドメインオブジェクトを操作できるようにすることです。なお、リポジトリそのものはモデルではなく設計上存在するものです。
-
-> Conceptually, a Repository encapsulates the set of objects persisted in a data store and the operations performed over them, ...  
--- P of EAA: Repository
-
-また、リポジトリは *ドメインオブジェクトのコレクションのように振る舞う* のですから、ドメインオブジェクトの永続化に関わる操作を隠蔽していることになります。
 
 DAOはデータアクセスのメカニズムを隠蔽する
 ----
@@ -38,14 +38,14 @@ DAOはデータアクセスのメカニズムを隠蔽する
 
 DAOはデータリソースのクライアントインタフェースをデータアクセスのメカニズムから分離します。
 
-DAOがインタフェースとメカニズムを分離するということは、DAOがインタフェースを盾にメカニズムを隠蔽するということです。この点はリポジトリと一致しています。
+これは *データアクセスのメカニズムを隠蔽することそのもの* です。この点はリポジトリと一致しています。
 
 > The DAO pattern allows data access mechanisms to change independently of the code that uses the data.  
 -- Design Patterns: Data Access Object
 
 DAOの関心はデータアクセスのメカニズムにあります。
 
-DAOの目的は *データを利用するコードから独立して* データアクスのメカニズムを変更できるようにすることです。
+DAOの目的はデータを利用するコードから独立してデータアクスのメカニズムを変更できるようにすることです。
 
 一致する点と相違する点
 ----
