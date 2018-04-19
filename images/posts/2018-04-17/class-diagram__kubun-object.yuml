@@ -1,0 +1,4 @@
+// {type:class}
+[Kubun|behavior: KubunBehavior|doSomething()]++-[<<interface>> KubunBehavior]
+[<<interface>> KubunBehavior]^-.-[KubunA|doSomething()]
+[<<interface>> KubunBehavior]^-.-[KubunB|doSomething()]
