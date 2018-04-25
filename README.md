@@ -18,30 +18,28 @@ Text styles
 ```md
 - review
 - experience
-
-- how-to
 - know-how
-
-- inspiration
-- impression
 ```
 
-Targets
+Reviews of..
 ----
 
 ```md
-- book
+- books
+- goods
+- gadgets
 - camera
 ```
 
-Themes
+Know-hows on..
 ----
 
 ```md
 - software-design
+- project-management
 ```
 
-Goods
+Specials
 ----
 
 ```md
