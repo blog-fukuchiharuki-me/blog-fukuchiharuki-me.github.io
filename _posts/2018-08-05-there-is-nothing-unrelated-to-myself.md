@@ -1,6 +1,6 @@
 ---
 layout: post
-title: プロジェクトの進行で自分に無関係なことなんてない、ということを怒られながら身につけた
+title: プロジェクトの進行で自分に無関係なことなんてない
 tags: 
 - experience
 - project-management
