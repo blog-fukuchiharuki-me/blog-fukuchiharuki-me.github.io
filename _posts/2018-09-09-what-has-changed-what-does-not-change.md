@@ -41,4 +41,4 @@ Wantedlyでいくつか会社訪問をして、ベンチャーのIT企業に転�
 
 ----
 
-[つづく（後編）](./what-has-changed-what-does-not-change-2)。
+[つづく（後編）](./what-has-changed-what-does-not-change-2)
