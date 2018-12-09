@@ -330,6 +330,11 @@ nav {
     border-left: 2px solid $gray;
     padding: 0 1rem;
   }
+  
+  iframe {
+    display: block;
+    margin: 20px auto 40px;
+  }
 
   .date {
     margin: 0 0 -2.4rem 0.2rem;
