@@ -23,7 +23,7 @@ title: 勉強用リポジトリをGitHubに作成しました
 こんな具合です。
 
 ```
-/shakyo/<テーマ>
+/books/<テーマ>
 /feature/<テーマ>/chapter-1
 /feature/<テーマ>/chapter-2
 ```
