@@ -2,8 +2,6 @@
 layout: post
 title: pomeraは思考を妨げない
 tags: 
-- review
-- impression
 - pomera
 ---
 

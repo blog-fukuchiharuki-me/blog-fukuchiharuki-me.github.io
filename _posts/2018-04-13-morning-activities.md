@@ -2,8 +2,7 @@
 layout: post
 title: 朝活はいいぞ、早く起きてこーい！
 tags: 
-- experience
-- impression
+- life-style
 ---
 
 朝活を始めて7日目、思ったよりも続けられています。3日でやめてしまうかもしれないと思っていました（笑）

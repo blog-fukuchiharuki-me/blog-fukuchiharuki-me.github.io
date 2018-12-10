@@ -2,8 +2,7 @@
 layout: post
 title: 起きろ！エクストリームお花見出社
 tags: 
-- experience
-- impression
+- life-style
 - camera
 ---
 

@@ -2,8 +2,6 @@
 layout: post
 title: ELECOMのレザーケース「TB-02LC」は「pomera DM200」にぴったり
 tags: 
-- review
-- goods
 - pomera
 ---
 

@@ -2,8 +2,7 @@
 layout: post
 title: 『現場で役立つシステム設計の原則』第2章・第3章 感想
 tags: 
-- review
-- book
+- books
 - software-design
 ---
 

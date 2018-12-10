@@ -2,8 +2,7 @@
 layout: post
 title: フリーランスになって変わったことと変わらないもの（後編）
 tags: 
-- experience
-- work
+- work-style
 ---
 
 [つづき（前編）](./what-has-changed-what-does-not-change)

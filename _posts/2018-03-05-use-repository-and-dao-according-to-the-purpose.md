@@ -2,7 +2,6 @@
 layout: post
 title: リポジトリとDAOの住み分け方
 tags:
-- learning
 - software-design
 ---
 

@@ -2,8 +2,7 @@
 layout: post
 title: プロジェクトの進行に自分と無関係なことなんてない
 tags: 
-- experience
-- project-management
+- system-development
 ---
 
 システム開発のプロジェクトに関わるということはどういうことかと、過去の経験を振り返ってみて大事なことを思い出しました。
