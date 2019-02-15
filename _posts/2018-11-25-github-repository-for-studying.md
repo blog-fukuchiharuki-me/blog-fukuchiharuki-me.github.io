@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 勉強用リポジトリをGitHubに作成しました
+title: 勉強用リポジトリをGitHubに作成した
 ---
 
 勉強用リポジトリをGitHubに作成しました。
