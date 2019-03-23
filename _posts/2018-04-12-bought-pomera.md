@@ -1,8 +1,6 @@
 ---
 layout: post
 title: やっぱり「pomera DM200」を買ってしまった
-tags: 
-- pomera
 ---
 
 買ってしまいました。pomera。

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: pomeraは思考を妨げない
-tags: 
-- pomera
 ---
 
 pomeraを使ってみて、ノイズが少ないというのはありがたいことだと思うようになりました。
