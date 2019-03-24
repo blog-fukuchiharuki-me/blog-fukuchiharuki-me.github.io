@@ -11,7 +11,7 @@ tags:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/DTt0qFQGcEy3Id" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/masuda220/ss-137608652" title="ドメイン駆動設計本格入門" target="_blank">ドメイン駆動設計本格入門</a> </strong> from <strong><a href="https://www.slideshare.net/masuda220" target="_blank">増田 亨</a></strong> </div>
 
-今回の内容は特に「区分」にフォーカスを当てていたように感じました。まず、ビジネスルールこそ複雑さの根源であり立ち向かうべきもの、としたうえで、区分による条件・分岐が特に複雑であると紹介されていました。
+今回の内容は特に「区分」にフォーカスを当てていたように感じました。まず、*ビジネスルールこそ複雑さの根源であり立ち向かうべきもの*、としたうえで、区分による条件・分岐が特に複雑であると紹介されていました。
 
 業務アプリケーションにおいて数学的に難解なロジックが求められることは確かに（あまり）なくて、入り組んだり散らばったりしてしまうのは条件・分岐であるのはその通りだなと思います。
 
