@@ -1,6 +1,8 @@
 ---
 layout: post
 title: ELECOMのレザーケース「TB-02LC」は「pomera DM200」にぴったり
+tags:
+- private-journal
 ---
 
 pomeraのケースとしてELECOMのレザーケース（タブレットPC 10.1インチ対応 TB-02LCYL）を買いました。なかなかよいです。これでがしがしpomeraを持ってお出かけできそうです。

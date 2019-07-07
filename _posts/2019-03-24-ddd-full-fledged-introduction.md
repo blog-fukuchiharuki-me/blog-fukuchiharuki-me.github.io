@@ -2,10 +2,10 @@
 layout: post
 title: ドメイン駆動設計 本格入門に参加してきた感想
 tags: 
-- events
+- study-session
 ---
 
-[[DevLOVE Premium第3回]ドメイン駆動設計 本格入門](https://devlove.doorkeeper.jp/events/85247)に参加してきました。
+[[DevLOVE Premium第3回]ドメイン駆動設計 本格入門](https://devlove.doorkeeper.jp/study-session/85247)に参加してきました。
 
 講演形式でも直接お話を聞くと、強調されていることをよりはっきりと受け取ることができて勉強になります。増田さん（[@masuda220](https://twitter.com/masuda220)）がいらっしゃる勉強会に参加するのはこれで5回目？くらいだと思います。その度に新しい学びがあります。
 

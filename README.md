@@ -6,7 +6,10 @@ Post template
 layout: post
 title: 
 tags: 
-- books
-- events
+- book
+- private-journal
+- programming
+- study-session
+- teamwork
 ---
 ```

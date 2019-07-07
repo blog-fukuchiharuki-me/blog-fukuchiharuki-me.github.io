@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 起きろ！エクストリームお花見出社
+tags:
+- private-journal
 ---
 
 先日、エクストリームお花見出社と称して写真撮影をしてきました。
