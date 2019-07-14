@@ -9,8 +9,7 @@ tags:
 
 ここではリポジトリとDAOの違いはどこにあるのか、また具体的にリポジトリとDAOをどう使い分けるのがよさそうかを考えてみます。
 
-リポジトリはドメインオブジェクトのコレクション
-----
+## リポジトリはドメインオブジェクトのコレクション
 
 > A Repository mediates between the domain and data mapping layers, acting like an in-memory domain object collection.   
 -- P of EAA: Repository
@@ -27,8 +26,7 @@ tags:
 
 リポジトリの目的はドメインオブジェクトを操作できるようにすることです。なお、リポジトリそのものはモデルではなく設計上存在するものです。
 
-DAOはデータアクセスのメカニズムを隠蔽する
-----
+## DAOはデータアクセスのメカニズムを隠蔽する
 
 > separates a data resource&#39;s client interface from its data access mechanisms  
 -- Design Patterns: Data Access Object
@@ -42,8 +40,7 @@ DAOはデータリソースのクライアントインタフェースをデー�
 
 DAOの目的はデータを利用するコードから独立してデータアクスのメカニズムを変更できるようにすることです。
 
-一致する点と相違する点
-----
+## 一致する点と相違する点
 
 リポジトリとDAOはデータアクセスに関わるメカニズムを隠蔽する点で一致しています。
 
@@ -51,8 +48,7 @@ DAOの目的はデータを利用するコードから独立してデータア�
 
 つまり、リポジトリとDAOはデータストアとアプリケーションコードの間に位置する点で一致していますが、*関心の向きが違います*。リポジトリの関心はドメインオブジェクトにあり、DAOの関心はデータアクセスのメカニズムにあります。
 
-リポジトリとDAOの住み分け方
-----
+## リポジトリとDAOの住み分け方
 
 さて、リポジトリとDAOをどう住み分けるかを考えます。
 
@@ -68,8 +64,7 @@ DAOはデータアクセスのメカニズムを隠蔽するものです。JPA�
 
 ![リポジトリとDAOの関係を示すクラス図](../images/posts/2018-03-05/class-diagram__repository-and-dao.png)
 
-まとめ
-----
+## まとめ
 
 そもそも、リポジトリとDAOは同じコンテキストで説明されるものではありません。そのため、ふたつが一致した側面をもっていてもおかしくありません。
 
@@ -87,8 +82,7 @@ DAOはデータアクセスのメカニズムを隠蔽してエンティティ�
 
 アプリケーションコードがリポジトリを利用し、リポジトリがDAOを利用します。リポジトリとDAOは併せて、次の役割と目的をもちます。ドメインオブジェクトの永続化に関わる物理的な操作を隠蔽し、アプリケーションコードがドメインオブジェクトを概念的に操作できるようにすることです。
 
-参考
-----
+## 参考
 
 - [P of EAA: Repository](https://martinfowler.com/eaaCatalog/repository.html)
 - [Design Patterns: Data Access Object](http://www.oracle.com/technetwork/java/dao-138818.html)
