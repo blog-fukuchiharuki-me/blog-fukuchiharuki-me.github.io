@@ -67,7 +67,7 @@ url: http://blog.fukuchiharuki.me
 permalink: /entry/:title
 
 # How many items should be displayed per page
-paginate: 20
+paginate: 30
 
 # The destination of the pagination pages
 paginate_path: /page/:num
