@@ -1,7 +1,0 @@
-[Customers]++-[List<Customer>]
-[List<Customer>]<>-[Customer]
-
-[Customer]<>-[PhoneNumber]
-[Customer]<>-[Name]
-[PhoneNumber]++-[String]
-[Name]++-[String]
