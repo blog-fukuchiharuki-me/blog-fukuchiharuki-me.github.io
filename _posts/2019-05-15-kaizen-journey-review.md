@@ -2,7 +2,7 @@
 layout: post
 title: １人からはじめて越境するチームをつくる 『カイゼン・ジャーニー』 感想
 tags: 
-- book
+- book-reading
 - study-session
 ---
 

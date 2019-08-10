@@ -6,7 +6,7 @@ Post template
 layout: post
 title: 
 tags: 
-- book
+- book-reading
 - private-journal
 - programming
 - study-session
