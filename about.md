@@ -61,9 +61,9 @@ Webアプリケーションを中心にソフトウェアの開発を仕事に�
 
 ホームページあります。
 
-- [ホームページ](http://fukuchiharuki.me/)
-- [レジュメ](http://resume.fukuchiharuki.me/)　・・・もうちょっと硬いプロフィール
-- [Wiki](http://fukuchiharuki.me/wiki/)　・・・プログラミングのTipsなど
+- [ホームページ](https://fukuchiharuki.me/)
+- [レジュメ](https://fukuchiharuki.me/static/resume/)　・・・もうちょっと硬いプロフィール
+- [Wiki (archive)](https://fukuchiharuki.me/static/pukiwikidump/)　・・・プログラミングのTipsなど
 
 SNSも。友達申請大歓迎です。
 
