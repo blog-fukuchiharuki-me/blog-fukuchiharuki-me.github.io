@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 勉強用リポジトリをGitHubに作成した
+tags:
+- programming
 ---
 
 勉強用リポジトリをGitHubに作成しました。

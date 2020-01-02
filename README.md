@@ -6,10 +6,12 @@ Post template
 layout: post
 title: 
 tags: 
-- book-reading
-- private-journal
+- essay
 - programming
-- study-session
-- teamwork
+- project-management
+- review
+  - book
+  - product
+  - study-session
 ---
 ```

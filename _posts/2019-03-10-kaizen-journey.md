@@ -2,6 +2,7 @@
 layout: post
 title: カイゼン・ジャーニー発刊１周年記念イベントに行ってきた感想
 tags: 
+- review
 - study-session
 ---
 

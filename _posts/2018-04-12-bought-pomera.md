@@ -2,7 +2,8 @@
 layout: post
 title: やっぱり「pomera DM200」を買ってしまった
 tags:
-- private-journal
+- review
+- product
 ---
 
 買ってしまいました。pomera。

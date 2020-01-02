@@ -2,7 +2,7 @@
 layout: post
 title: フリーランスになって変わったことと変わらないもの（後編）
 tags:
-- private-journal
+- essay
 ---
 
 [つづき（前編）](./what-has-changed-what-does-not-change)

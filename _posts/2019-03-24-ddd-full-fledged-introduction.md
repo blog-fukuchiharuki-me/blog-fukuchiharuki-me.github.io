@@ -2,6 +2,7 @@
 layout: post
 title: ドメイン駆動設計 本格入門に参加してきた感想
 tags: 
+- review
 - study-session
 ---
 
