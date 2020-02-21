@@ -22,7 +22,7 @@ tags:
 開発対象のシステムはある情報の検索サイトです。何の情報であるかは述べません。今回のお話にもそれは影響しません。ドメインの詳細が考察に影響しないくらいの設計ミスがある。
 ということです。
 
-![CQRS](../images/posts/2019-07-21/cqrs.png)
+![CQRS](../images/2019-07-21-a-disastrous-design-and-our-challenge-to-ddd/cqrs.png)
 
 この情報には操作側と参照側の側面があります。情報の所有者が情報の属性情報を入力します。情報の閲覧者が情報の計算や判定の結果を参照します。操作の都合と参照の都合が異なることは予想できました。そこで、CQRSを参考に操作用のオブジェクトと参照用のオブジェクトを分けました。
 この選択はよかったと思っています。
@@ -36,7 +36,7 @@ tags:
 
 検索サイトである性質上、参照には計算や判定を伴う複数の表示表現があります。一方で情報の操作はほとんどCRUDです。ビジネスロジックと呼ぶような処理は、操作側よりもむしろ参照側にありました。
 
-![Fat Repository](../images/posts/2019-07-21/fat-repository.png)
+![Fat Repository](../images/2019-07-21-a-disastrous-design-and-our-challenge-to-ddd/fat-repository.png)
 
 それでどうなったか？Fat Repositoryを生んでしまいました。controllerやserviceはシンプルに次の層を呼び出すだけにできています。しかしrepositoryが計算や判定をする処理の所在になりました。しかも複数の表示表現に応じてその処理は散在してしまっています。
 
@@ -46,7 +46,7 @@ tags:
 
 レイヤーにおけるビジネスロジックの所在以外にも問題はあります。このシステムは検索サイトなだけに多くの表示項目があります。参照用のオブジェクトはそのすべてをプリミティブな値のフィールドにしているのです。
 
-![Primitive value fields](../images/posts/2019-07-21/primitive-value-fields.png)
+![Primitive value fields](../images/2019-07-21-a-disastrous-design-and-our-challenge-to-ddd/primitive-value-fields.png)
 
 アプリケーションはリポジトリのインタフェースを境にあちらとこちらしかありません。リポジトリの実装は計算や判定など、ビジネスロジックをやる責務を負ってしまいました。値オブジェクトを設けなかったことで、ビジネスロジックはリポジトリのあらゆる箇所に散在しました。計算や判定の内容はリポジトリの手続き的なコードを慎重に読み下して始めて分かる状態なわけです。
 
@@ -58,7 +58,7 @@ tags:
 
 リファクタリングをするには丁度いい大きさのテーマが現在進行中です。
 
-![Query Object Model](../images/posts/2019-07-21/query-object-model.png)
+![Query Object Model](../images/2019-07-21-a-disastrous-design-and-our-challenge-to-ddd/query-object-model.png)
 
 同じ轍を踏まないよう次のことを意識しています。まずは**値オブジェクトを主役にすること**です。計算や判断が値オブジェクトから抜け出してしまっていないか、どの値オブジェクトにあるべきなのか、慎重に検討しています。参照用のモデルは値オブジェクトの組み合わせであるとしました。
 アプリケーションの都合が参照用のモデルに入り込んでいないか、やはりよく見直します。

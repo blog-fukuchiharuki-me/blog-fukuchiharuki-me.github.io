@@ -43,7 +43,7 @@ tags:
 
 ## プログラムの形式で業務を定義する
 
-![区分オブジェクト](../images/posts/2018-04-17/class-diagram__kubun-object.png)
+![区分オブジェクト](../images/2018-04-17-principles-of-the-systems-architecture-3rd-chapter-review/class-diagram.png)
 
 そのためのテクニカルなアプローチが、第1章のバリューオブジェクトやファーストクラスコレクション、第2章の区分オブジェクト、そして、業務ロジックを表現する第3章のドメインオブジェクトになるわけですね。
 

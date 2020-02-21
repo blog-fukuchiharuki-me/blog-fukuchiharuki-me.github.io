@@ -43,7 +43,7 @@ tags:
 
 ## 小さなことからはじめてみる
 
-![バリューオブジェクトとファーストクラスコレクション](../images/posts/2018-03-10/class-diagram__first-class-collection-and-value-object.png)
+![バリューオブジェクトとファーストクラスコレクション](../images/2018-03-10-principles-of-the-systems-architecture-1st-chapter-review/class-diagram.png)
 
 **バリューオブジェクト**や**ファーストクラスコレクション**のようなクラス分割を知れば、オブジェクト指向の実践は*小さなことからはじめられそう*だと気がつきます。
 
