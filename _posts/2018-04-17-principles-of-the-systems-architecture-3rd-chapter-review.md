@@ -68,3 +68,5 @@ tags:
 「これは別のクラスとして切り出したいな」という衝動が沸けば、オブジェクト指向な思考をできているかもしれないと思えて嬉しくなります。
 
 それを、特別なこととしてではなく、当たり前のこととしてできてしまうようになりたい。この本にあるような基本的なテクニックを身につけて原則としてして活用できるようになるには、日々の実践あるのみですね。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=477419087X&linkId=2b9828df19fc653e5502e5b478d32c90"></iframe>

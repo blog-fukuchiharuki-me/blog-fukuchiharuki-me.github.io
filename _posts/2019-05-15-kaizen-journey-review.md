@@ -52,3 +52,5 @@ tags:
 その当たり前のようにも思える価値・原則を思い起こして自分を向き直すのに、とてもよい本だと思いました。
 
 カイゼン・ジャーニーをくださった市谷さん、ありがとうございました。新井さんにも平成最後の勉強会「多様な働き方のチームでどうやってアジャイルにやるの？」にてご挨拶させていただきました、ありがとうございます。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4798153346&linkId=14007609e8f62c5f30a7902772e5913c"></iframe>
