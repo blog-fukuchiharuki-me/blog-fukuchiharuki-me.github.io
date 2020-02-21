@@ -2,7 +2,7 @@
 layout: post
 title: リポジトリとDAOの住み分け方
 tags: 
-- programming
+- software-design
 ---
 
 **※ 2019年7月21日に追記しました。**

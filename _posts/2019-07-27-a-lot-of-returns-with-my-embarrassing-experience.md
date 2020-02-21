@@ -2,7 +2,7 @@
 layout: post
 title: 失敗談を公開したらたくさんのものが返ってきた
 tags: 
-- programming
+- software-design
 ---
 
 先の記事「[大失敗した設計、そしてドメイン駆動設計の基本に立ち返る](./a-disastrous-design-and-our-challenge-to-ddd)」はツイッターやはてなブックマークの影響で多くの方に閲覧してもらえました。増田さん（[@masuda220](https://twitter.com/masuda220)）に紹介していただいたり、早々にMitsuyuki Shiibaさん（[@shiiba](https://twitter.com/bufferings)）からコメントをいただいたりもしました。ありがとうございます。

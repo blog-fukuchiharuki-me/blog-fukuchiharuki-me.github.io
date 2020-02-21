@@ -2,8 +2,7 @@
 layout: post
 title: 終身雇用から新しい雇用のかたちへ 『ALLIANCE』 感想
 tags: 
-- review
-- book
+- book-review
 ---
 
 先日、Twitterのタイムラインでたまたたま見かけた本、『ALLIANCE』を読んでみました。会社と従業員の関係をどうしていくべきかについて書かれた本です。

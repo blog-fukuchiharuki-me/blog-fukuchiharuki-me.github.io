@@ -2,7 +2,7 @@
 layout: post
 title: 大失敗した設計、そしてドメイン駆動設計の基本に立ち返る
 tags: 
-- programming
+- software-design
 ---
 
 **※ 2019年7月27日に追記しました。**
