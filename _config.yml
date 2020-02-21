@@ -6,7 +6,7 @@
 name: 福地春喜のブログ
 
 # Short bio or description (displayed in the header)
-description: <s>フリーランス&times;</s>エンジニアリングリード&times;プログラマーのブログ
+description: 30代&times;エンジニアリングリード&times;プログラマーのブログ
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/1741026?v=4&s=460
@@ -19,7 +19,7 @@ twitter: fukuchiharuki
 #
 writer:
   name: 福地春喜
-  title: <s>フリーランス&times;</s>エンジニアリングリード&times;プログラマー
+  title: エンジニアリングリード&times;プログラマー
   description: ドメイン駆動設計やOOUIなどオブジェクト指向分析と設計に興味があります。趣味で写真をやります。
   avatar: https://avatars0.githubusercontent.com/u/1741026?v=4&s=460
   read-more: 
