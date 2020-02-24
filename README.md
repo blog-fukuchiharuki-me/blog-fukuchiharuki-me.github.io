@@ -3,8 +3,9 @@ layout: post
 title: 
 tags: 
 - book-review
-- study-session-review
+- essay
 - software-design
+- study-session-review
 ---
 
 # ブログに書くこと
