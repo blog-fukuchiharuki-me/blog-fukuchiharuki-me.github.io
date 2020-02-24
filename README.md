@@ -3,7 +3,7 @@ layout: post
 title: 
 tags: 
 - book-review
-- essay
+- connecting-the-dots
 - software-design
 - study-session-review
 ---
