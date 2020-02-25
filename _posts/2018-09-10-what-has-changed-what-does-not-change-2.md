@@ -5,9 +5,7 @@ tags:
 - connecting-the-dots
 ---
 
-[つづき（前編）](./what-has-changed-what-does-not-change)
-
-----
+前回「[フリーランスになって変わったことと変わらないもの（前編）](./what-has-changed-what-does-not-change)」からのつづきです。
 
 ## フリーランスか、正社員か
 
