@@ -62,7 +62,7 @@ DAOはデータアクセスのメカニズムを隠蔽するものです。JPA�
 
 上記をまとめたものが次の図です。
 
-![リポジトリとDAOの関係](../images/2018-03-05-use-repository-and-dao-according-to-the-purpose/class-diagram.png)
+![リポジトリとDAOの関係](../images/use-repository-and-dao-according-to-the-purpose/class-diagram.png)
 
 ## まとめ
 
