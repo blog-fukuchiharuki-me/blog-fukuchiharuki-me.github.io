@@ -9,7 +9,7 @@ tags:
 
 （ただ、noteは使わないことにしました...... [2021-02-18]）
 
-▶ [Heading Image Maker | 見出し画像メーカー](https://fukuchiharuki.me/heading-image-maker/)
+▶ [Heading Image Maker - 見出し画像メーカー](https://fukuchiharuki.me/heading-image-maker/)
 
 noteは公式に見出し画像用のテンプレート公開しています。noteを書くときはそれで見出し画像を作成していました。しかしそれは少し大げさかなと思っていました。文字と色を置き換えるだけなのに。なので、文字と色を置き換えるだけのツールにしました。
 
