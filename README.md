@@ -4,7 +4,10 @@ title:
 tags: 
 - book-review
 - connecting-the-dots
+- product
+- project-management
 - software-design
+- software-process
 - study-session-review
 ---
 
