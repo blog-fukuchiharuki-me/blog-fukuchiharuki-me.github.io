@@ -393,7 +393,14 @@ nav {
 
 /// .share-links
 .share-links {
-  margin-top: 4.0rem;
+  margin-top: 2.4rem;
+}
+
+.entry + .share-links {
+  margin-top: 4rem;
+}
+
+.share-links {
   text-align: center;
   
   a {
