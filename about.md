@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ふくちはるきのプロフィール
+title: 福地春喜のプロフィール
 permalink: /about/
 ---
 
