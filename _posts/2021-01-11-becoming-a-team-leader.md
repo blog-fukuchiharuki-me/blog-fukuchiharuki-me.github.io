@@ -2,7 +2,7 @@
 layout: post
 title: チームのリーダーになる
 tags: 
-- team-building
+- connecting-the-dots
 ---
 
 前職ではチームのリーダーをしていました。
