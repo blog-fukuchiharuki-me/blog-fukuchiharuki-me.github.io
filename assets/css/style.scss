@@ -50,17 +50,21 @@ h1, h2, h3, h4, h5, h6 {
 
 .posts h1 {
   font-family: inherit;
-}
-
-article > h1 {
-  font-size: 2.0rem;
+  font-size: 1rem;
+  font-weight: normal;
+  color: inherit;
   a {
     color: inherit;
   }
 }
 
+article > h1 {
+  font-size: 2.0rem;
+}
+
 article > .content {
   h1 {
+    color: darkslateblue;
     font-size: 1.6rem;
   }
 
@@ -251,9 +255,6 @@ nav {
 .posts > .post {
   h1 {
     margin: 0.2rem 0;
-    font-size: 1rem;
-    font-weight: normal;
-    color: inherit;
   }
   .date {
     padding-top: 0.2rem;
@@ -279,10 +280,6 @@ nav {
 
   > h1 {
     margin-bottom: 1.8rem;
-  }
-
-  h2 {
-    color: darkslateblue;
   }
   
   p {
