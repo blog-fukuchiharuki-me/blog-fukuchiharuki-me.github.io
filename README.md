@@ -1,19 +1,17 @@
 ---
 layout: post
-title: 
+title: 自分のためのメモ
 tags: 
 - book-review
-- connecting-the-dots
-- product
-- project-management
+- study-session-review
 - software-design
 - software-process
-- study-session-review
+- connecting-the-dots
 ---
 
 # ブログに書くこと
 
-レビューやレポートなど、情報不足に起因する読者の悩みを解決することを目的にする。 主に検索からの流入を期待する。不特定多数の人を対象にするので記事の内容を客観的にすること。
+レビューやレポートなど、調べたり考察したりしたことを書く。記事の内容は客観的であるように心がける。より主観を伴うことは [note](https://note.com/fukuchiharuki) に書く。ただし、経験を振り返るようなことはこちらに書く。
 
 # 投稿のテンプレート
 
@@ -22,5 +20,5 @@ tags:
 ファイル名は次の形式にする。
 
 ```
-/_posts/2020-02-20-title-of-a-journal.md
+/_posts/2021-11-27-a-memo-for-myself.md
 ```
