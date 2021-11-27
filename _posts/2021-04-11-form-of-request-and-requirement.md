@@ -2,7 +2,6 @@
 layout: post
 title: 要望と要求と要件のかたち
 tags: 
-- software-design
 - software-process
 ---
 
