@@ -52,24 +52,26 @@ h1, h2, h3, h4, h5, h6 {
   font-family: inherit;
 }
 
-h1 {
+article > h1 {
   font-size: 2.0rem;
   a {
     color: inherit;
   }
 }
 
-h2 {
-  font-size: 1.6rem;
-}
+article > .content {
+  h1 {
+    font-size: 1.6rem;
+  }
 
-h3 {
-  font-size: 1.2rem;
-}
+  h2 {
+    font-size: 1.2rem;
+  }
 
-h4 {
-  color: $gray;
-  font-size: 1.2rem;
+  h3 {
+    color: $gray;
+    font-size: 1.2rem;
+  }
 }
 
 a {
@@ -396,8 +398,9 @@ nav {
   margin-top: 2.4rem;
 }
 
-.entry + .share-links {
+.content + .share-links {
   margin-top: 4rem;
+  margin-bottom: 4rem;
 }
 
 .share-links {
