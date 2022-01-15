@@ -130,7 +130,7 @@ blockquote {
   font-weight: lighter;
   letter-spacing: 0.05rem;
 
-  +::before {
+  &::before {
     content: '📅 ';
   }
 }
