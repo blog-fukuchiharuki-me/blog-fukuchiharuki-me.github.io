@@ -127,9 +127,12 @@ blockquote {
 .date {
   color: $gray;
   font-size: 0.8rem;
-  font-style: italic;
   font-weight: lighter;
   letter-spacing: 0.05rem;
+
+  ::before {
+    content: '📅 ';
+  }
 }
 
 //
