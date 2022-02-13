@@ -16,7 +16,7 @@ tags:
 
 リポジトリはエンタープライズアプリケーションアーキテクチャパターンにおいて次のように説明されています。リポジトリはドメインとデータマッピングレイヤをとりなして、**インメモリなドメインオブジェクトのコレクション**のように振る舞います。
 
-> Conceptually, a Repository encapsulates the set of objects persisted in a data store and the operations performed over them, ...  
+> Conceptually, a Repository encapsulates the set of objects persisted in a data store and the operations performed over them, [...]  
 -- [P of EAA: Repository](https://martinfowler.com/eaaCatalog/repository.html)
 
 リポジトリはドメインオブジェクトの永続化に関わる操作を隠蔽しているとも言えます。
