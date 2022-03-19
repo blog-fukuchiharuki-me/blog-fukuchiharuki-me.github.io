@@ -62,3 +62,5 @@ SESをやる会社にいたときにその想いが湧きました。強いチ�
 なにもリーダーというポジションにある人だけが他人の意識の中にあるわけではありません。しかし、そのポジションにあったことが自覚として**人の意識の中にある自分**を考えるきっかけになりました。
 
 よいチームで仕事できたことは本当に誇りに思います。そこでリーダーというポジションに立たせてもらえたことはありがたいことでした。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873118484&linkId=836900ccb6878d99888517a4dc1ecd9c"></iframe>

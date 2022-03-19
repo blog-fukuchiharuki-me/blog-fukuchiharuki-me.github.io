@@ -28,3 +28,5 @@ tags:
 と、私が受けた印象を書き綴ってみました。参加された他の方はまた違った印象を受けたかもしれません。あるいは増田さんの意図とも違っているかもしれません。が、それはそれでよいのです。また見返したりお話を聞いたりしたときにはさらに違っているでしょうから。
 
 オブジェクト指向ってなんだっけ？から始まって、ドメイン駆動設計を知ってそれから追いかけてきていますが、勉強することはまるで尽きないなと感じます。プログラマーは常に勉強し続けないといけない云々なんてことが言われますが、そんなに悲観することではないです。むしろいつだって勉強し始めることができるってことだし、変に焦るよりもこれは楽しいことだって思いたいですね。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=477419087X&linkId=1138f4a407e0e2d334ddfb74be975a0b"></iframe>
