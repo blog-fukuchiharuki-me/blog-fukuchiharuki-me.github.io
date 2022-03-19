@@ -72,9 +72,8 @@ tags:
 
 ----
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=fukuchiharuki-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4478062579&linkId=51c2f5e449bed6a6e94f17189711c93e&bc1=000000&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
-
 『ALLIANCE』の後半には人間関係や人脈としてのネットワークの重要性や、育て方、活かし方などについても述べられています。変わる情勢の中で何がコモディティ化し、何が重要になるかということ、そして何を大切にするべきかを、具体的な事例を添えてまとめたよい本だと思いました。
 
 ちなみに、今仕事させてもらえている会社では、私が何を満たしたいかということについて何度も聞いてくれています。ありがたいことです。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4478062579&linkId=717a6d4fd151e62ce4bfcc2fb774a2b5"></iframe>

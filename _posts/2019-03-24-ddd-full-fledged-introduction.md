@@ -30,3 +30,7 @@ tags:
 オブジェクト指向ってなんだっけ？から始まって、ドメイン駆動設計を知ってそれから追いかけてきていますが、勉強することはまるで尽きないなと感じます。プログラマーは常に勉強し続けないといけない云々なんてことが言われますが、そんなに悲観することではないです。むしろいつだって勉強し始めることができるってことだし、変に焦るよりもこれは楽しいことだって思いたいですね。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=477419087X&linkId=1138f4a407e0e2d334ddfb74be975a0b"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00GRKD6XU&linkId=246f02c0398d95a5c662752b3d8a6005"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=479813161X&linkId=63de5c8fa7c5d2a57183d71e3b75574d"></iframe>
