@@ -50,8 +50,11 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus: fukuchiharuki-blog
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# Enter your Google Analytics web tracking code (e.g. UA-0000000-0) to activate tracking
 google_analytics: UA-21698320-3
+
+# Enter your Google AdSense code (e.g. ca-pub-0000000000000000) to activate auto ads
+google_adsense: ca-pub-3652547341671748
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
