@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 火事の現場にはまず「現場指揮本部」を置く
+title: 火事の現場ではまず「現場指揮本部」を置く
 tags: 
 - software-process
 ---
