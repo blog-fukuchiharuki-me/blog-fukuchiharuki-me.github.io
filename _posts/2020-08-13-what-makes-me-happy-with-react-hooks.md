@@ -1,8 +1,6 @@
 ---
 layout: post
 title: React Hooksを使うと何が嬉しいのか
-tags: 
-- software-design
 ---
 
 触れられていなかったReact Hooksが気になっていたので、少し勉強してみました。

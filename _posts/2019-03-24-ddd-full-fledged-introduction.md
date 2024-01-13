@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 「ドメイン駆動設計 本格入門」に参加してきた感想
-tags: 
-- study-session-review
 ---
 
 [[DevLOVE Premium第3回]ドメイン駆動設計 本格入門](https://devlove.doorkeeper.jp/study-session/85247)に参加してきました。

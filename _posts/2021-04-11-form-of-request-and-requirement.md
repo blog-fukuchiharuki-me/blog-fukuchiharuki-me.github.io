@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 要望と要求と要件の違い
-tags: 
-- software-process
 ---
 
 要望と要求と要件の違いは何でしょうか。
