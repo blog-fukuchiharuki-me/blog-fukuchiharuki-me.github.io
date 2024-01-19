@@ -72,4 +72,6 @@ title: 終身雇用から新しい雇用のかたちへ 『ALLIANCE』 感想
 
 『ALLIANCE』の後半には人間関係や人脈としてのネットワークの重要性や、育て方、活かし方などについても述べられています。変わる情勢の中で何がコモディティ化し、何が重要になるかということ、そして何を大切にするべきかを、具体的な事例を添えてまとめたよい本だと思いました。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4478062579&linkId=717a6d4fd151e62ce4bfcc2fb774a2b5"></iframe>
+# アソシエイトリンク
+
+- [ALLIANCE　アライアンス―――人と企業が信頼で結ばれる新しい雇用 単行本](https://www.amazon.co.jp/ALLIANCE-%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9%E2%80%95%E2%80%95%E2%80%95%E4%BA%BA%E3%81%A8%E4%BC%81%E6%A5%AD%E3%81%8C%E4%BF%A1%E9%A0%BC%E3%81%A7%E7%B5%90%E3%81%B0%E3%82%8C%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E9%9B%87%E7%94%A8-%E3%83%AA%E3%83%BC%E3%83%89%E3%83%BB%E3%83%9B%E3%83%95%E3%83%9E%E3%83%B3%EF%BC%9B%E3%83%99%E3%83%B3%E3%83%BB%E3%82%AB%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%AB%EF%BC%9B%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%A4%E3%82%A7/dp/4478062579?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3K9HV0DNUII6N&dib=eyJ2IjoiMSJ9.VNA97tOnxj9OTTnWLmhqhg.-X4Mgwf5SZN4uwOgdT60VgoiKz6FyDxKrVZQ66O38ew&dib_tag=se&keywords=4478062579&qid=1705678837&sprefix=4478062579%2Caps%2C154&sr=8-1&linkCode=ll1&tag=fukuchiharuki-22&linkId=f67c4b850e4a63863f0aedcecd49a71c&language=ja_JP&ref_=as_li_ss_tl)

@@ -59,4 +59,6 @@ SESをやる会社にいたときにその想いが湧きました。強いチ�
 
 よいチームで仕事できたことは本当に誇りに思います。そこでリーダーというポジションに立たせてもらえたことはありがたいことでした。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=fukuchiharuki-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873118484&linkId=836900ccb6878d99888517a4dc1ecd9c"></iframe>
+# アソシエイトリンク
+
+- [エンジニアのためのマネジメントキャリアパス ―テックリードからCTOまでマネジメントスキル向上ガイド 単行本（ソフトカバー）](https://www.amazon.co.jp/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%83%91%E3%82%B9-%E2%80%95%E3%83%86%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%89%E3%81%8B%E3%82%89CTO%E3%81%BE%E3%81%A7%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B9%E3%82%AD%E3%83%AB%E5%90%91%E4%B8%8A%E3%82%AC%E3%82%A4%E3%83%89-Camille-Fournier/dp/4873118484?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=GVZ66S6SWGBW&dib=eyJ2IjoiMSJ9.etxfKeXH0_vjRCWcptJ1WQ.lawcCpdFi6-AtsMi_9Fl9HaiOiPclQrx67HF2GG6rDE&dib_tag=se&keywords=4873118484&qid=1705678390&sprefix=4862465196%2Caps%2C249&sr=8-1&linkCode=ll1&tag=fukuchiharuki-22&linkId=219d21cadf49f8902cf6808241ef530a&language=ja_JP&ref_=as_li_ss_tl)
