@@ -1,6 +1,8 @@
 ---
 layout: post
 title: リポジトリとDAOの違い
+redirect_from:
+  - /entry/use-repository-and-dao-according-to-the-purpose
 ---
 
 リポジトリとDAOは似ていますが、どこか違いがありそうです。リポジトリとDAOはどちらもアプリケーションコードとデータストアの間に位置します。リポジトリとDAOの違いはどこにあるのか、参考文献からそれぞれの目的を調べてみます。また具体的にリポジトリとDAOをどう使い分けられそうかを考えてみます。
