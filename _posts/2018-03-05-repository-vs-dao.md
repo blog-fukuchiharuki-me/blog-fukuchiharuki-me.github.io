@@ -54,7 +54,7 @@ DAOの目的はデータを利用するコードから独立してデータア�
 
 上記を図に整理してみます。
 
-![リポジトリとDAOの関係](../images/use-repository-and-dao-according-to-the-purpose/class-diagram.png)
+![リポジトリとDAOの関係](../images/2018-03-05/class-diagram.png)
 
 なお、JPAではドメインオブジェクトの構成とデータベースのエンティティの構成を柔軟にマッピングできます。JPAを適切に利用できれば、リポジトリの役割りとDAOの役割りを兼ねて実装することができます。
 

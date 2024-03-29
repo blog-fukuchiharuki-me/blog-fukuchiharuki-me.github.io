@@ -11,7 +11,7 @@ redirect_from:
 
 # 関数コンポーネントでステートと副作用を扱える
 
-![useState](../images/what-makes-me-happy-with-react-hooks/usestate.png)
+![useState](../images/2020-08-13/usestate.png)
 
 Reactではコンポーネントを組み合わせるようにしてページを実装します。コンポーネントはレンダーのサイクルを跨るステートを持つことができます。コンポーネントを関数で書くこともできますが、この関数コンポーネントはステートを扱えませんでした。そのために小さなコンポーネントでもクラスで書かなければならないのは面倒でした。
 
@@ -19,7 +19,7 @@ Reactではコンポーネントを組み合わせるようにしてページを
 
 # ある関心事を凝集した定義にできる
 
-![useEffect](../images/what-makes-me-happy-with-react-hooks/useeffect.png)
+![useEffect](../images/2020-08-13/useeffect.png)
 
 クラスには副作用を記述するためのメソッドが用意されています。`componentDidMount`や`componentWillUnmount`などです。たとえば購読の開始とそのクリーンアップをそれぞれのメソッドに書きます。
 
@@ -33,7 +33,7 @@ Reactではコンポーネントを組み合わせるようにしてページを
 
 # カスタムフックが美しい
 
-![Custom hook](../images/what-makes-me-happy-with-react-hooks/custom-hook.png)
+![Custom hook](../images/2020-08-13/custom-hook.png)
 
 フックは関数のトップレベルに書くルールがあります。これは実行の順番が保たれる必要があるためのようです。たとえば`if`文などを使って条件つきでフックを呼び出してはいけません。それが守られれば一連の定義をカスタムフックとしてひとつの関数に切り出せます。
 
