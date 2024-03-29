@@ -1,6 +1,8 @@
 ---
 layout: post
 title: フリーランスになって変わったことと変わらないもの（後編）
+redirect_from:
+  - /entry/what-has-changed-what-does-not-change-2
 ---
 
 前回「[フリーランスになって変わったことと変わらないもの（前編）](./what-has-changed-what-does-not-change)」からのつづきです。

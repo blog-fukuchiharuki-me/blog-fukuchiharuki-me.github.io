@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 「カイゼン・ジャーニー発刊１周年記念イベント」に参加してきた感想
+redirect_from:
+  - /entry/kaizen-journey
 ---
 
 カイゼン・ジャーニー発刊１周年記念イベントに参加してきました。

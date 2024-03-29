@@ -1,6 +1,8 @@
 ---
 layout: post
 title: React Hooksを使うと何が嬉しいのか
+redirect_from:
+  - /entry/what-makes-me-happy-with-react-hooks
 ---
 
 触れられていなかったReact Hooksが気になっていたので、少し勉強してみました。

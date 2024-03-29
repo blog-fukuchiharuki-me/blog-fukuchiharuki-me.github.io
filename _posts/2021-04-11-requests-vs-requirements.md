@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 要望と要求と要件の違い
+redirect_from:
+  - /entry/form-of-request-and-requirement
 ---
 
 要望と要求と要件の違いは何でしょうか。
