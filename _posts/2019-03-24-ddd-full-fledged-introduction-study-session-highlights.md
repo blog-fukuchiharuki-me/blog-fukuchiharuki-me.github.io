@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 「ドメイン駆動設計 本格入門」に参加してきた感想
+title: 【ドメイン駆動設計 本格入門】ハイライトと感想
 redirect_from:
   - /entry/ddd-full-fledged-introduction
 ---
