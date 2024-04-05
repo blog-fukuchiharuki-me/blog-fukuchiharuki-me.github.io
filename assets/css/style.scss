@@ -186,6 +186,7 @@ blockquote {
 }
 
 .masthead {
+  position: relative;
   padding: 1.2rem;
   border-bottom: 1px solid $lightGray;
 
@@ -213,16 +214,6 @@ blockquote {
   }
 }
 
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
 .site-name {
   margin: 0;
   color: $darkerGray;
@@ -244,15 +235,16 @@ blockquote {
 }
 
 nav {
-  float: right;
-  margin-top: 1.5rem; // @TODO: Vertically middle align
+  position: absolute;
+  bottom: 1.2rem;
+  right: 1.2rem;
+
   font-family: $helveticaNeue;
   font-size: 1rem;
 
   @include mobile {
-    float: none;
+    position: static;
     margin-top: 0.8rem;
-    display: block;
   }
 
   a {
