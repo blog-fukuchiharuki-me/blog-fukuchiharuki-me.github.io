@@ -27,6 +27,13 @@ writer:
     link: /about
 
 #
+# Admin
+#
+admin:
+  name: Fukuchi, Haruki
+  link: https://fukuchiharuki.me/
+
+#
 # Flags below are optional
 #
 
@@ -40,7 +47,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: yes # just type anything here for a working RSS icon
+  rss: no # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
