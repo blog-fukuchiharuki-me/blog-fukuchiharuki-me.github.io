@@ -5,10 +5,10 @@ redirect_from:
   - /entry/firstly-establish-a-field-command-headquarters
 ---
 
-<p>ページが自動的に移動しない場合は、<a href="https://fukuchiharuki-notes.blogspot.com/2025/02/banner-flag.html">こちら</a>をクリックしてください。</p>
+<p>ページが自動的に移動しない場合は、<a href="https://fukuchiharuki-at.blogspot.com/2025/02/banner-flag.html">こちら</a>をクリックしてください。</p>
 
 <script type="text/javascript">
     setTimeout(function() {
-        window.location.href = "https://fukuchiharuki-notes.blogspot.com/2025/02/banner-flag.html";
+        window.location.href = "https://fukuchiharuki-at.blogspot.com/2025/02/banner-flag.html";
     }, 1000);
 </script>
